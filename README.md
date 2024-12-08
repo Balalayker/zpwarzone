@@ -1,3 +1,4 @@
+![NEWZplay_](https://github.com/user-attachments/assets/6ec17a15-46ab-4850-8f99-b5d5c8c27078)
 *********************************************** ZPLAY Community ***************************************
 
 								ОБНОВЛЕНИЕ И ЗАПУСК ZP WARZONE 2019 IW8Z
