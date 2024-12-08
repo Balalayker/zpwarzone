@@ -16,7 +16,7 @@
 ZPLauncher - https://discord.com/channels/141278302185717760/1285732545128038430
 Radmin - https://www.radmin-vpn.com/ru/
 =================================================================================
-# +++++++++++++++ ССЫЛКИ +++++++++++
+* +++++++++++++++ ССЫЛКИ +++++++++++
     Microsoft Visual C++ 2015-2022 Redistributable - https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170
     NET.Framework 4.8 - https://winsides.com/enable-dot-net-4-8-advanced-services-windows-11/
     
