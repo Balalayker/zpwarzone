@@ -1,0 +1,180 @@
+{
+	map			"mp_aniyah_tac"
+	longname	"LUA_MENU/MAPNAME_ANIYAH_TAC"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_ANIYAH_TAC"
+	mapimage    "loading_mp_aniyah_tac_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_backlot2"
+	longname	"LUA_MENU/MAPNAME_BACKLOT2"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_BACKLOT2"
+	mapimage    "loading_mp_backlot2_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_donetsk"
+	longname	"LUA_MENU/MAPNAME_DONETSK"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_DONETSK"
+	mapimage    "loading_mp_donetsk_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_br_quarry"
+	longname	"LUA_MENU/MAPNAME_BR_QUARRY"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_BR_QUARRY"
+	mapimage    "loading_mp_br_quarry_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_br_tut"
+	longname	"LUA_MENU/MAPNAME_BR_TUT"
+	gametype	"tutorial"
+	description "LUA_MENU/MAPNAME_BR_TUT"
+	mapimage    "loading_mp_br_tut_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_br_quarry"
+	longname	"LUA_MENU/MAPNAME_BR_QUARRY"
+	gametype	"br"
+	description "LUA_MENU/MAPNAME_BR_QUARRY"
+	mapimage    "loading_mp_br_quarry_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_emporium"
+	longname	"LUA_MENU/MAPNAME_EMPORIUM"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_EMPORIUM"
+	mapimage    "loading_mp_emporium_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_rust"
+	longname	"LUA_MENU/MAPNAME_RUST"
+	gametype	"arena conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_RUST"
+	mapimage    "loading_mp_rust_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_shipment"
+	longname	"LUA_MENU/MAPNAME_SHIPMENT"
+	gametype	"arena conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_SHIPMENT"
+	mapimage    "loading_mp_shipment_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_hideout"
+	longname	"LUA_MENU/MAPNAME_HIDEOUT"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_HIDEOUT"
+	mapimage    "loading_mp_hideout_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_king"
+	longname	"LUA_MENU/MAPNAME_M_KING"
+	gametype	"arena conf ctf cyber dm dom grind gun hvt infect sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_M_KING"
+	mapimage    "loading_mp_m_king_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_speed"
+	longname	"LUA_MENU/MAPNAME_SPEED"
+	gametype	"arena conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_SPEED"
+	mapimage    "loading_mp_m_speed_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_speedball"
+	longname	"LUA_MENU/MAPNAME_M_SPEEDBALL"
+	gametype	"arena conf ctf cyber dm dom grind gun hvt infect sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_M_SPEEDBALL"
+	mapimage    "loading_mp_m_speedball_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_m_fork"
+	longname	"LUA_MENU/MAPNAME_M_FORK"
+	gametype	"arena conf ctf cyber dm dom grind gun hvt infect sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_M_FORK"
+	mapimage    "loading_mp_m_fork_bg"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_village2"
+	longname	"LUA_MENU/MAPNAME_VILLAGE2"
+	gametype	"conf ctf cyber dd dm dom grind grnd gun hq hvt infect koth rugby sd siege tjugg war"
+	description "LUA_MENU/MAPNAME_VILLAGE2"
+	mapimage    "image_mp_map_templogo"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_t_gun_course"
+	longname	"LUA_MENU/MAPNAME_T_GUN_COURSE"
+	gametype	"trial"
+	description "LUA_MENU/MAPNAME_T_GUN_COURSE"
+	mapimage    "image_mp_map_templogo"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_t_sn_reflex"
+	longname	"LUA_MENU/MAPNAME_T_SN_REFLEX"
+	gametype	"trial"
+	description "LUA_MENU/MAPNAME_T_SN_REFLEX"
+	mapimage    "image_mp_map_templogo"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
+{
+	map			"mp_t_reflex"
+	longname	"LUA_MENU/MAPNAME_T_REFLEX"
+	gametype	"trial"
+	description "LUA_MENU/MAPNAME_T_REFLEX"
+	mapimage    "image_mp_map_templogo"
+	mapvoteimage "image_mp_map_templogo_vote"
+	mappack		"0" 
+	wegame		"1"
+}
