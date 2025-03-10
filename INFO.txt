@@ -14,11 +14,18 @@
 * - Папка LICENSE_players для вашей лицензионной игры (если она у вас есть) переместите в неё все файлы с папки players 
 вашей CoD MW (Steam или B.Net) для того что бы переключение папок players работало в ZPWZ Localize.exe.
 ================================================================================
-ZPLauncher - https://discord.com/channels/141278302185717760/1285732545128038430
-Radmin - https://www.radmin-vpn.com/ru/
+****************************** ЖУРНАЛ ИЗМЕНЕИЙ *********************************
 ================================================================================
 
-ZP Warzone Update 9.02.2025:
+ZP Warzone v2.6 Update 11.03.2025:
+- Русифицировано главное меню;
+- Описание режима Испытание;
+- Подробнее в лаунчере теперь на GitHub;
+- Изменен раздел Update Changelog;
+- Регулировка ботов мультиплеера 1-9 в меню F1.
+
+-------------------------------------------------------------------------------
+ZP Warzone v2.5.1 Update 9.02.2025:
 - Удалена надоедливая надпись Teleported;
 - Добавлен конфиг для контроллера;
 - Расчленение теперь On/Off;
@@ -28,36 +35,12 @@ ZP Warzone Update 9.02.2025:
 - Верданск и режимы выделены цветом.
 
 -------------------------------------------------------------------------------
-ZP Warzone 1.1.2025:
+ZP Warzone v2.4 Update 1.1.2025:
 - Обновлен ZPWZ Localize: вызов игроков с Телеграм;
 - Восстановлена карта: Лесопилка Ховец;
 - Исправлены эффекты взрывов;
 - Папка donetsk изменена на zplay.
 
-P.S Финальное обновление потому что разработчик закрыл исходный код.
---------------------------------------------------------------------------------
-ZP Warzone Update 11.11.2024:
-- Обновлен и сокращен водяной знак;
-- Оптимизация и исправления ZPWZ Localize;
-- Переименованы разделы сводки;
-- Оптимизация DLL;
-- Обновлен ZPLauncher, Telegram вместо Facebook.
--------------------------------------------------------------------------------
-ZPLAY Changelog 24.09.2024:
-- Обновлен ZPWZ Localize HotFix;
-- Ссылки на компоненты в INFO.txt.
-
 =================================================================================
-+++++++++++++++ ССЫЛКИ +++++++++++
- Microsoft Visual C++ 2015-2022 Redistributable - https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170
- NET.Framework 4.8 - https://winsides.com/enable-dot-net-4-8-advanced-services-windows-11/
-Видеоинструкция (Odysee) - https://odysee.com/@ZPLAY:f/call-of-duty%C2%AE-verdansk-%F0%9F%86%93-free-%E2%98%A0%EF%B8%8F:e?r=EuCZojMjpAQmUKdRgPWT6nxiLQU3PYzH
-
-Старая (YouTube) - https://youtu.be/CfLoWeHeniE?si=kCbfIiCiTKqravKf
-
-Инструкция (форум) - https://zaporozhye.forum2x2.ru/t30-topic
-
-GoFile (архив) - https://gofile.io/d/r4XRqA
-Filecrypt (архив) - https://filecrypt.co/Container/2AA44E83ED.html
-DataNodes (архив) - https://datanodes.to/xacbmqbnl5nq/Call-of-Duty-Modern-Warfare_-2019.rar
-Gamecontent (архивы) - http://gamecontent.ir/Call%20of%20Duty%20Modern%20Warfare/Game%20Files/
+!!!!!!!!!!!! Разработчик закрыл исходный код, обновления будут редко !!!!!!!!!!!!
+=================================================================================
